@@ -5,7 +5,7 @@ Domain : Android development <br>
 Duration: Augest to September 2024 <br>
 Mentor : Muzammil Ahmed <br>
 
-Weather Application
+Weather Application <br>
 Weather App License
 
 🌦️ Overview
