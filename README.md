@@ -1,9 +1,9 @@
-Name : S stalin
-Company: CODTECH IT SOLUTIONS
-Intern ID : CT08DS6732
-Domain : Android development
-Duration: Augest to September 2024
-Mentor : Muzammil Ahmed
+Name : S stalin <br>
+Company: CODTECH IT SOLUTIONS <br>
+Intern ID : CT08DS6732 <br>
+Domain : Android development <br>
+Duration: Augest to September 2024 <br>
+Mentor : Muzammil Ahmed <br>
 
 Weather Application
 Weather App License
