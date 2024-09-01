@@ -38,7 +38,7 @@ Create a .env file in the root directory and add your weather API key:
 
 REACT_APP_WEATHER_API_KEY=your_api_key_here
 Run the Application
-npm start
+npm start <br>
 The application will run on http://localhost:3000.
 
 📋 Usage
@@ -61,5 +61,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📧 Contact
 For any questions or suggestions, please reach out to:
 
-Your Name: S.stalin
+Your Name: S.stalin <br>
 GitHub: @yourusername
